@@ -20,7 +20,7 @@ setup(
     name=NAME,
     author="Mathew Rowe @ Oracle",
     author_email="matthew.r.rowe@oracle.com",
-    url="https://github.com/oracle/macest",
+    url="https://github.com/aviv-israel/macest",
     version=version,
     packages=PACKAGES,
     package_dir={"": "src"},
